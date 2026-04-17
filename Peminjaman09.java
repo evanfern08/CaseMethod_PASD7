@@ -2,7 +2,7 @@ class Peminjaman09 {
     Mahasiswa09 mhs;
     Buku09 buku;
     int lamaPinjam;
-    int batasPinjam = 5;  // batas peminjaman sampai 5 hari
+    int batasPinjam = 7;  // batas peminjaman sampai 7 hari
     int terlambat;
     int denda;
 
